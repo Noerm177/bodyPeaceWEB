@@ -1,0 +1,29 @@
+{
+  "name": "bodypeaceweb",
+  "version": "1.0.0",
+  "description": "bodyPeaceUsandoWeb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noerm177/bodyPeaceWEB.git"
+  },
+  "author": "Noerm",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jasmine": "^3.3.8",
+    "@types/jasminewd2": "^2.0.6",
+    "@types/node": "~10.12.19",
+    "eslint": "^5.12.1",
+    "jasmine": "~3.3.1",
+    "protractor": "^5.4.2",
+    "ts-node": "^8.0.2",
+    "typescript": "^3.2.2"
+  },
+  "bugs": {
+    "url": "https://github.com/Noerm177/bodyPeaceWEB/issues"
+  },
+  "homepage": "https://github.com/Noerm177/bodyPeaceWEB#readme"
+}
